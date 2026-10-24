@@ -1,6 +1,9 @@
 # HostelBus — Smart Bus Scheduling & Boarding Management System
 
 A menu-driven C project designed to manage hostel bus boarding, seat capacity, departure delays, and manually updated bus tracking information.
+## Screenshot
+
+![HostelBus terminal menu](hostelbus.main.png)
 
 ## Features
 
