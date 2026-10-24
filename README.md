@@ -3,7 +3,7 @@
 A menu-driven C project designed to manage hostel bus boarding, seat capacity, departure delays, and manually updated bus tracking information.
 ## Screenshot
 
-![HostelBus terminal menu](HostelBus-menu.png)(Hostelbus2.png)(Hostelbus3.png)
+![HostelBus terminal menu](HostelBus-menu.png,Hostelbus2.png,hostelbus3.png)
 
 ## Features
 
